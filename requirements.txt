@@ -6,3 +6,7 @@ matplotlib
 langchain
 openai
 python-dotenv
+ipykernel
+catboost
+xgboost
+plotly
